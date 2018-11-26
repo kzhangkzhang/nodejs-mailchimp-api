@@ -1,0 +1,17 @@
+{
+  "name": "020_mailchimpapi",
+  "version": "1.0.0",
+  "description": "learning NodeJS and mailchimp",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "dev": "nodemon app"
+  },
+  "author": "Kevin Zhang",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  }
+}
